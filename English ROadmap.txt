@@ -1,0 +1,445 @@
+1. Listen one podcast / news / story / conversation everyday 
+2. Read Child Novels / Captions / Fiction books everyday 
+3. Don't try to translate in native language before thinking / speaking. ( Don't use filler words , clarity is required )
+4. Don't try to learn grammar
+5. The main purpose of any language is to communicate, so keep it simple and easy to understand. You are not a proffesional writer to have a very good level of vocabulary.
+6. Try to notice the things around you , notice the sentences from series / movies 
+7. Whenever you will listen something, try to write it down. While writing you will come to know that you are not able to frame the sentences so to back and read / listen again.
+8. Practise / talk to yourself in front of mirror / phone camera.
+9. Talk to chatgpt
+
+--------------------------------------------------------------------------------------------------------------------------------------
+JAVA :
+Week 1  :  Overview of Object-Oriented Programming and Java
+Week 2  :  Java Programming Elements
+Week 3  :  Input-Output Handling in Java
+Week 4  :  Encapsulation
+Week 5  :  Inheritance
+Week 6  :  Exception Handling 
+Week 7  :  Multithreaded Programming 
+Week 8  :  Java Applets and Servlets 
+Week 9  :  Java Swing and Abstract Windowing Toolkit (AWT)
+Week 10 : Networking with Java
+Week 11 :  Java Object Database Connectivity (ODBC)
+Week 12 :  Interface and Packages for Software Development
+
+Video -
+
+-----Week 1-----
+Video 1 - 
+• Concept of Java Programming
+• How is Java Unique?
+• High-level Programming Principles
+• Java Programming Paradigm
+• Java Programming Features
+
+Video 2 -
+• Java Program Editing
+• Java Program Compilation
+• Java Program Execution
+• C/C++ versus Java
+
+Video 3 -
+• Java Programming Tools
+• Java Language Subset
+• Identifiers in Java
+• Arrays in Java
+
+Video 4 -
+• How to Install Java?
+• Setting environment Variables to Run Java Programs.
+• Editing a Java Program and its Compilation and Execution.
+• Few Simple Java Programs
+
+Video 5 -
+• Java Programming for Applet
+• Structure of an Applet
+• Input to an Applet
+• Application versus Applet
+
+-----Week 2----------------
+Video 6 -
+•Writing and Running a Java Applet using HTML File
+  -Welcome applet program
+  -Hello Wolrd Applet
+  -Resize applet program
+  -Applet Background color change
+  -Specifying Applet Parameters thorugh HTML
+• Running a Java Applet without using HTML File
+
+Video 7 -Encapsulation
+• Concept of Class in java
+• Multiple Classes Declaration
+• Constructors
+• this Keyword
+
+Video 8 -
+Encapsulation: Creating a Class.
+• Creating Objects in a Program.
+• Defining More Method in a Class.
+• Constructor in a Class and its use
+• Demonstration of Constructor Overloading.
+• Use of this: To Avoid Name Space Collision.
+• More Specialized Use of this Keyword.
+
+Video 9-
+• About main () Method
+• Java Runtime Data Input
+
+Video 10-
+• Use of print (), println () and printf ().
+• Command Line Input in Java
+• Take Input using Scanner Class
+• Read Input with DataInputStream
+
+-----Week 3-----
+
+Video 11 -
+• Static Scope Rule in Java
+• Nested Class in Java
+• Recursive Programs in Java
+
+Video 12 -
+• Programs to Demonstrate Loop Control
+• Programs to Demonstrate Scope of Variables
+• Programs in Java with recursion
+
+Video 13 -
+• Inheritance Concept
+• Types of Inheritances
+• Method Overriding
+• super Keyword
+• Dynamic Method Dispatch
+• Abstract Class in Java
+• final Keyword in Java 
+
+Video 14 -
+• Simple Inheritance
+• Multilevel Inheritance
+• Use of super Keyword
+• Method Overriding in Inheritance
+• Abstract Class
+• Use of final Keyword
+
+Video 15 -
+• Access Modifiers in Java
+• Default Access modifier
+• public Access Modifier
+• private Access Modifier
+• protected Access Modifier
+
+-----Week 4-----
+
+Video 16 -
+• Example of Default Access Modifier.
+• Example of public Access Modifier.
+• Example of private Access Modifier.
+• Example of protected Access Modifier.
+• Java Access Modifiers with Method Overloading.
+• Examples of Access Modifiers 
+
+Video 17 -
+• Concept of Package in Java
+• Built-in Packages in Java
+• Defining Packages in Java 
+
+Video 18-
+• Accessing a Package
+• Importing a Package
+• Access Protection for Packages
+
+Video 19 -
+• Importing a Java Built-in API package.
+• Creating a User’s Own Package
+• Package with Default Aaccess Specifier for its Classes
+• Utilization of a Package in a Java Program
+• Inheritance with a Class in a Package
+• Access Protection of Classes in Package
+
+Video 20 -
+• Revisit the Abstract Class
+• Interfaces in Java
+• Inheritance with Interface
+-----Week 6-----
+
+Video 21-
+• Standard Interfaces in Java
+• Some Salient Points
+• Multiple Inheritance Issue
+
+Video 22 -
+• Creating an Interface
+• Some properties of Interface
+• Interface and single Inheritance
+• Interface and multiple Inheritance
+• Runtime polymorphism with Interface
+• Interface Versus Abstract Class
+
+Video 23 -
+• Concept of Errors in Java
+• Exception Handling Mechanism
+• try-catch block
+
+Video 24 -
+• try- with Multiple catch
+• Multiple Errors with Single catch
+• finally in try-catch
+• throw in try-catch
+
+Video 25 -
+• Built-in Exception Handling in Java
+• User Defined Exceptions
+• Final Round of Wrapping
+
+-----Week 6-----
+
+Video 26 -
+• Compile-time and Run-time Errors
+• Simple and Nested try-catch Block
+• try with multiple catch
+• Multiple Errors with Single catch
+• finally in try-catch Block
+• Exception Handling using throws Statement
+
+Video 27 -
+• Concept of Multithreading
+• Multithreading in Java
+• Creating Threads with Thread
+
+Video 28 -
+• Creating Threads with Runnable
+• States of a Thread
+• Scheduling of Threads
+• Priority of Threads
+• Synchronization of Threads
+
+Video 29 - 
+• Creating Threads using the Thread Class.
+• Creating Threads Implementing the Runnable Interface.
+• Using the Thread Methods.
+• Demonstrating Thread’s States and Inter Process Communication
+• A Real World Example of Multithreading
+• The Same with Thread Synchronization
+
+Video 30 -
+• Input-Output Streams in Java
+• Java Classes for I-O Streams
+• Java Input Stream Classes
+• Java Output Stream Classes
+• Character Stream Classes
+--------Weak 7--------
+
+Video 31 -
+Concepts Covered : 
+• Usage of I-O Stream Classes
+• Files Handling in Java
+• Checking Status of a File
+• Reading a File
+• Writing into a File
+• Reading from a File
+• Storing Data into a File
+• Merging two Files into a File
+
+Video 32 -
+• Random Access Files in Java
+• Interactive Input-Output
+• Graphical Input-Output
+
+Video 33 -
+• How to Create, Open and Close a File.
+• Use of DataInputStream Class to Read from a File.
+• Use of DataOutputStream to Write into a File.
+• Use of CharacterStream Classes to Read and Write into Files
+• File Handling in Java.
+• Example of BufferedOutputStream Class.
+• Example of Java BufferedInputStream.
+• Example of Java SequenceInputStream.
+
+Video 34 -
+• Java Programming for Applet
+• Structure of an Applet
+• Input to an Applet
+• Application Versus Applet
+
+Video 35 -
+• Applet Basics
+• Applet Skeleton and Syntax
+• Designing an Applet
+
+----------Weak 8 ------
+Video 36 -
+• The Applet Tag in HTML
+• Status Window in Applet
+• Some Interesting Facts
+• Banner Applet
+• Scribble Applet
+• Calculator Applet 
+
+Video 37 -
+• A Simple Java Applet Program
+• An Applet using Methods
+• An HTML File Hosting Applet Programs
+• Some Issues with Applet Programs 
+
+Video 38 -
+• Different Specifications in Spplet Sag in HTML Document
+• Advanced Banner Applet
+• Advanced Scribble Applet
+• Advanced Calculator Applet 
+
+Video 39 -
+• AWT Concept
+• GUIs with AWT
+• GUIs with AWT Component 
+
+Video 40 -
+• GUIS with Layout Mangers
+• Flow Layout
+• Border Layout
+• Grid Layout
+• Card Layout
+ 
+-------Weak 9--------
+Video 41 -
+• GUIs with AWT Component
+• Frame, Panel, Button, TextField, TextArea, List, Choice, ChoiceBox, Label, Scrollbar, etc.
+
+Video 42 -
+
+Concept of Event
+• Event Handling
+• Event Handling Classes
+• Event Handling Interfaces
+• Event Handling Model
+• Handling Mouse Events
+• Handling Keyboard Events 
+
+Video 43 -Basics of Swing
+• Java Swing Components (Part—I)  
+
+Video 44 -
+Java Swing Components (Part—II)
+• Java swing Calculator 
+
+Video 45 -
+Handling mouse events
+• Scribble 1 ( using listener methods)
+• Scribble 2 ( using Java 1.0 event handling mechanism)
+• Mouse listener example
+  Handling keyboard events
+• Simple keyboard event
+• Virtual key codes
+  Revisiting calculator
+• Handling events with Swing componentsa
+• Login GUI using TextField, PasswordField and Login Button 
+
+------Weak 10 ------
+Video 46
+• Create a jFrame container
+• Create a jPanel container
+• Create a Swing button
+• Creating JFrame, JButton and method call inside the java constructor
+• Inherit the JFrame class
+• Button with ActionListner
+• Button with image
+• Simple calculator for Addition and Subtraction of numbers in TextField
+• Simple program to find number of words and characters in a TextArea.
+• Simple program to make a login GUI using TextField, PasswordField and Login Button
+• A program to show use of CheckBox
+• A program to show use of RadioButton
+• A program to implement slider input using Jspinner
+• A program to add a Toggle button 
+
+
+Video 47-
+• A program to show use of ComboBox
+• A program to create a table and show some data
+• A program to create a list and list some data
+• A program to show some info to using JOptionPane
+• A program to create a menu bar and show menu items
+• A program to show some menu using PopupMenu
+• A program to show check box menu item in menu
+• A program to show progress bar
+• A program to show Tree structured data arrangement
+• A program to show choose colour using JColorChooser
+• A program to show multiple tabs using JTabbedPane
+• A program to implement slider input using Jslider 
+
+Video 48 -
+• Basics of Networking
+• Networking Terminologies
+• Communication Protocols
+• java.net Package
+• Class URL
+• Class URLConnection
+• Class HttpURLConnection
+• Class InetAddress
+• Class DatagramSocket
+• Class DatagramPacket
+• Class ServerSocket
+• Class Socket 
+Video 49-
+• Simple Client-Server using UDP
+• Simple Client-Server using TCP
+• Dialogue Client-Server
+• Dialogue Client-Server (Remote)
+• Concurrent Server 
+Video 50 -
+DBMS Basics and SQL
+• MySQL Basics
+• Installation of MyBasics
+• Some SQL Statements Execution with MySQL  
+----------Weak 11--------
+
+Video 51 -
+Basics of JDBC Driver
+• Some SQL Statements Execution with JDBC 
+
+Video 52 -
+jave.net package for JDBC
+• Communication between Java Application and MySQL Database through JDBC 
+
+Video 53 -
+• Installation of MySQL
+• DBMS related Tasks with MySQL 
+
+Video 54 -
+
+• Installation of JDBC Driver
+• DBMS related Tasks with MySQL Thhrough JDBC 
+
+Video 55 -
+Execution of SQL Statement from Java Applications
+• Processing results using JDBC 
+----------- Weak 12 -------
+
+Video 56 -
+• Data Entry Systems
+• Computing with Java  
+
+Video 57 -
+
+Drawing Images on Canvas
+• Secure Message Transmission
+• Online Banking Transaction 
+
+Video 58 -
+Advanced Calculator
+• Quiz Game Application 
+
+Video 59 -
+Online Tic-Tac-Toe Game
+• Document Browser 
+
+Video 60 -
+• Course Management System
+• Java WordPro Duo 
+ 
+
+Video 59 -
+Online Tic-Tac-Toe Game
+• Document Browser 
+
+Video 60 
+
+
